@@ -1,2 +1,2 @@
 # pruebaGit
-Repositorio creado para practiacr git
+Repositorio creado para practicar git
