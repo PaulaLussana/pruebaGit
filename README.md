@@ -5,6 +5,7 @@ Repositorio creado para practicar git
 * Maria Luz **Lucero Zudaire**
 
 ## Contenido/Descripcion
+Esto es una prueba del readme
 
 | Email | Autores |
 |-------|---------|
